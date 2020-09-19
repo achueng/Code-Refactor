@@ -15,7 +15,7 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -24,19 +24,16 @@ span {
     color: #d9dcd6;
 }
 
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
-
-header nav ul {
     list-style-type: none;
 }
 
-header nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
